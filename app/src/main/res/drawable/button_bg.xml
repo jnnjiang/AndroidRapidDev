@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorAccent">
+    <item>
+        <!--<inset-->
+            <!--android:insetBottom="4dp"-->
+            <!--android:insetLeft="4dp"-->
+            <!--android:insetRight="4dp"-->
+            <!--android:insetTop="4dp">-->
+
+            <!--<shape-->
+                <!--android:shape="rectangle"-->
+                <!--android:tint="@color/colorPrimaryDark">-->
+                <!--<corners android:radius="5dp" />-->
+                <!--<solid android:color="@color/colorPrimary" />-->
+                <!--<padding-->
+                    <!--android:bottom="8dp"-->
+                    <!--android:left="8dp"-->
+                    <!--android:right="8dp"-->
+                    <!--android:top="8dp" />-->
+            <!--</shape>-->
+        <!--</inset>-->
+        <nine-patch android:src="@drawable/menu_hardkey_panel_holo_dark"
+            android:tint="@color/colorAccent"/>
+    </item>
+
+</ripple>

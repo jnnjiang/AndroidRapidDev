@@ -1,1 +1,1 @@
-include ':app', ':uisdk', ':payment'
+include ':app', ':uisdk', ':payment', ':tools'
